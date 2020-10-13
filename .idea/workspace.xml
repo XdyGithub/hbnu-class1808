@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76987298-8299-4c22-8272-410bd51fab35" name="Default Changelist" comment="" />
+    <list default="true" id="76987298-8299-4c22-8272-410bd51fab35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/CreateDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/DeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/FileCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/stream/WriterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/class08/cn/hbnu/edu/practice/SortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/class08/cn/hbnu/edu/practice/SortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/class08/com/dingli/edu/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/class08/com/dingli/edu/Demo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,29 +38,29 @@
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="89" />
+          <entry key="java" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8727" />
+          <entry key="java" value="9982" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8727" />
+          <entry key="JAVA" value="9982" />
         </counts>
       </usages-collector>
     </session>
@@ -53,91 +68,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/DaJi.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/FileCreate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="224">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/DateDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/DeleteFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="168">
+              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/HouYi.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/CreateDelete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="215">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="355">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="94" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/WriterDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/practice/SortString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="21" column="26" lean-forward="true" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/DaysOfYear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1456">
-              <caret line="52" column="14" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/Sesson.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="17" column="19" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/PrintArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/OrderArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -158,20 +182,12 @@
       <find>i1</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/classandobject/OverLoading.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/classandobject/Heroes.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/classandobject/Properties.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/classandobject/Test.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/classandobject/equalsCompare.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/Heroes.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/HouYi.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/LuBan.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/Interfaces.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/Test.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/Interfaceses.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/InterfaceDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/properties/InterfaceTest.java" />
@@ -212,6 +228,17 @@
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/practice/Login.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/practice/User.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/practice/SortString.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/FileCreate.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/DeleteFile.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/CreateDelete.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo2.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo2.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/WriterDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo2.java" />
       </list>
     </option>
   </component>
@@ -230,10 +257,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -263,63 +294,7 @@
               <item name="class08" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="classandobject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="InnerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="park" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="properties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="summary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="class08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="uml" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,11 +308,16 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/DingLi/class08/src/com/dingli/edu/PrintArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602342351795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602582966417" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.hbnu.edu.stream" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -351,13 +331,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortString">
-    <configuration name="ArithmeticExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.exception.ArithmeticExceptionDemo" />
+  <component name="RunManager" selected="Application.ReaderDemo2">
+    <configuration name="InputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.stream.InputStreamDemo" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.exception.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +345,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayIndexOutOfBoundsExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.exception.ArrayIndexOutOfBoundsExceptionDemo" />
+    <configuration name="InputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.stream.InputStreamDemo2" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.exception.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.practice.Login" />
+    <configuration name="ReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.stream.ReaderDemo" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.practice.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,12 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.practice.SortString" />
+    <configuration name="ReaderDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.stream.ReaderDemo2" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.practice.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,12 +384,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.exception.Test" />
+    <configuration name="WriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.stream.WriterDemo" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.exception.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,19 +398,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayIndexOutOfBoundsExceptionDemo" />
-      <item itemvalue="Application.ArithmeticExceptionDemo" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Login" />
-      <item itemvalue="Application.SortString" />
+      <item itemvalue="Application.InputStreamDemo" />
+      <item itemvalue="Application.InputStreamDemo2" />
+      <item itemvalue="Application.WriterDemo" />
+      <item itemvalue="Application.ReaderDemo" />
+      <item itemvalue="Application.ReaderDemo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortString" />
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArithmeticExceptionDemo" />
-        <item itemvalue="Application.ArrayIndexOutOfBoundsExceptionDemo" />
+        <item itemvalue="Application.ReaderDemo2" />
+        <item itemvalue="Application.ReaderDemo" />
+        <item itemvalue="Application.WriterDemo" />
+        <item itemvalue="Application.InputStreamDemo2" />
+        <item itemvalue="Application.InputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -465,17 +445,18 @@
       <workItem from="1602337346336" duration="4230000" />
       <workItem from="1602429538468" duration="26000" />
       <workItem from="1602431911121" duration="387000" />
+      <workItem from="1602577602328" duration="5570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57335000" />
+    <option name="totallyTimeSpent" value="62905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1552" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.24966533" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.20107238" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,7 +465,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33568406" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28631285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,8 +487,8 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21619813" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -515,7 +496,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32863188" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22425953" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,83 +525,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/InnerClass/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/InnerClass/OuterClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/InnerClass/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/InnerClass/OuterClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/InnerClass/InterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Language.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Basketball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/summary/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/uml/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1736">
@@ -847,6 +751,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dingli/edu/DaysOfYear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1456">
@@ -882,17 +793,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/common/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/practice/SortString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="21" column="26" lean-forward="true" selection-end-line="54" />
+          <caret line="21" column="26" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/DeleteFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/CreateDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="94" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/FileCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/WriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/ReaderDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
         </state>
       </provider>
     </entry>
