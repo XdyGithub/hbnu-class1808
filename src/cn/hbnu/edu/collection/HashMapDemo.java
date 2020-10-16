@@ -3,6 +3,7 @@ package cn.hbnu.edu.collection;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 import java.util.Set;
 
 public class HashMapDemo {
@@ -27,6 +28,15 @@ public class HashMapDemo {
         Iterator<String> iterator1 = values.iterator();
         while (iterator1.hasNext()) {
             System.out.print(iterator1.next() + " ");
+        }
+
+        Set<Map.Entry<Integer, String>> entries = hashMap.entrySet();
+        Iterator<Map.Entry<Integer, String>> iterator2 = entries.iterator();
+        while (iterator2.hasNext()) {
+            Map.Entry<Integer, String> next = iterator2.next();
+            Integer key = next.getKey();
+            String value = next.getValue();
+            System.out.println("key:" + key + "->" + "value:" + value);
         }
     }
 }
