@@ -38,11 +38,16 @@ public class HouYi extends Heroes {
         super(name, role);
     }
 
-    public void houYi1(String name) {
+    public void houYi1() {
         System.out.println("houyi'public method");
     }
 
     private void houYi2() {
         System.out.println("houyi'private method");
+    }
+
+    public void houYi3(String name) {
+        System.out.println("houYi3'public method with a parameter" + name);
+
     }
 }

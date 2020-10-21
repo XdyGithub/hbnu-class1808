@@ -2,6 +2,7 @@ package cn.hbnu.edu.reflect;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
+import java.lang.reflect.Method;
 
 /**
  * 反射测试类
@@ -52,5 +53,22 @@ public class ReflectTest {
         String str = (String) blood.get(heroes);
         System.out.println(str);
 
+        // 6、获取成员方法
+        Method[] declaredMethods = clazz3.getDeclaredMethods();  // 获取本类中的所有访问权限修饰符的方法
+        for (int i = 0; i < declaredMethods.length; i++) {
+            Method declaredMethod = declaredMethods[i];
+            System.out.print(declaredMethod.getName() + " ");
+        }
+        System.out.println();
+
+        Method method = clazz3.getMethod("houYi1");
+        String str1 = (String) method.invoke(heroes);
+
+        Method method2 = clazz3.getDeclaredMethod("houYi2");
+        method2.setAccessible(true);
+        method2.invoke(heroes);
+
+        Method method3 = clazz3.getMethod("houYi3", String.class);
+        method3.invoke(heroes, "后羿");
     }
 }
