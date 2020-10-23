@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76987298-8299-4c22-8272-410bd51fab35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/class08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +18,8 @@
     <session id="319778980">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="12" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -35,38 +33,38 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="147" />
+          <entry key="java" value="149" />
           <entry key="md" value="1" />
-          <entry key="properties" value="1" />
+          <entry key="properties" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="147" />
+          <entry key="JAVA" value="149" />
           <entry key="Markdown" value="1" />
-          <entry key="Properties" value="1" />
+          <entry key="Properties" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
           <entry key="ft" value="19" />
-          <entry key="java" value="16181" />
-          <entry key="properties" value="12" />
+          <entry key="java" value="17447" />
+          <entry key="properties" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16181" />
+          <entry key="JAVA" value="17447" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Properties" value="12" />
+          <entry key="Properties" value="195" />
           <entry key="VTL" value="19" />
         </counts>
       </usages-collector>
@@ -74,7 +72,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
@@ -86,14 +84,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="33" column="92" selection-start-line="33" selection-start-column="92" selection-end-line="33" selection-end-column="92" />
+            <state relative-caret-position="324">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="56" column="45" lean-forward="true" selection-start-line="56" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -121,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/exception/ArrayIndexOutOfBoundsExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/exception/ArithmeticExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/exception/DefineException.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/exception/Test.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/practice/Login.java" />
@@ -168,10 +197,12 @@
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcInterface.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/MysqlJdbc.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/OracleJdbc.java" />
-        <option value="$PROJECT_DIR$/src/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JavaProgrammer.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest01.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest02.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest03.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java" />
       </list>
     </option>
   </component>
@@ -224,7 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,6 +306,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -283,7 +314,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/DingLi/class08/src/com/dingli/edu/PrintArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603331046520" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603424402414" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/mysql-connector-java-8.0.12.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -310,20 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JdbcTest02">
-    <configuration name="AnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.annotation.AnnotationTest" />
-      <module name="class08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.annotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JdbcTest04">
     <configuration name="JavaProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JavaProgrammer" />
       <module name="class08" />
@@ -363,12 +381,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.reflect.ReflectTest" />
+    <configuration name="JdbcTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest03" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.reflect.*" />
+          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest04" />
+      <module name="class08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,19 +408,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnnotationTest" />
-      <item itemvalue="Application.ReflectTest" />
       <item itemvalue="Application.JavaProgrammer" />
       <item itemvalue="Application.JdbcTest01" />
       <item itemvalue="Application.JdbcTest02" />
+      <item itemvalue="Application.JdbcTest03" />
+      <item itemvalue="Application.JdbcTest04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JdbcTest04" />
+        <item itemvalue="Application.JdbcTest03" />
         <item itemvalue="Application.JdbcTest02" />
         <item itemvalue="Application.JdbcTest01" />
         <item itemvalue="Application.JavaProgrammer" />
-        <item itemvalue="Application.ReflectTest" />
-        <item itemvalue="Application.AnnotationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -436,18 +467,19 @@
       <workItem from="1603181429605" duration="8871000" />
       <workItem from="1603206551560" duration="72000" />
       <workItem from="1603245993773" duration="3218000" />
-      <workItem from="1603323644895" duration="5731000" />
+      <workItem from="1603323644895" duration="5831000" />
+      <workItem from="1603417617570" duration="6827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99042000" />
+    <option name="totallyTimeSpent" value="105969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.23257373" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" weight="0.23592493" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,7 +488,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27234638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3980447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,7 +510,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.23257373" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.23592493" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +519,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27234638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3980447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -516,20 +548,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -799,20 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/test.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/MysqlJdbc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -856,20 +861,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest01.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="23" column="135" selection-start-line="23" selection-start-column="135" selection-end-line="23" selection-end-column="135" />
+        <state relative-caret-position="324">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest02.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="33" column="92" selection-start-line="33" selection-start-column="92" selection-end-line="33" selection-end-column="92" />
+        <state relative-caret-position="184">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="56" column="45" lean-forward="true" selection-start-line="56" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="23" column="135" selection-start-line="23" selection-start-column="135" selection-end-line="23" selection-end-column="135" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
