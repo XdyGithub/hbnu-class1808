@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76987298-8299-4c22-8272-410bd51fab35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +23,7 @@
         <counts>
           <entry key="project.closed" value="37" />
           <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -35,13 +36,13 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="160" />
+          <entry key="java" value="167" />
           <entry key="md" value="1" />
           <entry key="properties" value="4" />
         </counts>
@@ -49,7 +50,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="160" />
+          <entry key="JAVA" value="167" />
           <entry key="Markdown" value="1" />
           <entry key="Properties" value="4" />
         </counts>
@@ -58,13 +59,13 @@
         <counts>
           <entry key="dummy" value="4" />
           <entry key="ft" value="19" />
-          <entry key="java" value="20685" />
+          <entry key="java" value="22229" />
           <entry key="properties" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20684" />
+          <entry key="JAVA" value="22228" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="195" />
           <entry key="SQL" value="1" />
@@ -76,10 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+            <state relative-caret-position="215">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,10 +89,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest05.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="61" column="140" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="140" />
+            <state relative-caret-position="116">
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,43 +101,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest07.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest08.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-616">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#1057#1058#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+                <element signature="e#1255#1256#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest09.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="579">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,10 +163,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="299">
+              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,11 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/DeleteFile.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/CreateDelete.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/PrintFiles.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo2.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamDemo2.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/OutputStreamDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/stream/WriterDemo.java" />
@@ -227,9 +240,14 @@
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest05.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest08.java" />
-        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest07.java" />
         <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest09.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest10.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest11.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest12.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/Student.java" />
+        <option value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest13.java" />
       </list>
     </option>
   </component>
@@ -249,8 +267,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
+    <option name="x" value="-10" />
+    <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -281,8 +299,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,15 +328,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Arrays&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/util/Arrays.java&#10;Collections&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar!/java/util/Collections.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603857426373" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603935834133" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest05.java" />
+    <property name="last_opened_file_path" value="E:/IDEAProjects/yonghe-ssm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -346,33 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JdbcTest07">
-    <configuration name="JdbcTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest05" />
-      <module name="class08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest06" />
-      <module name="class08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JdbcTest13">
     <configuration name="JdbcTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest07" />
       <module name="class08" />
@@ -386,8 +378,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest08" />
+    <configuration name="JdbcTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest10" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
@@ -399,8 +391,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest09" />
+    <configuration name="JdbcTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest11" />
+      <module name="class08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest12" />
+      <module name="class08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hbnu.edu.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hbnu.edu.jdbc.JdbcTest13" />
       <module name="class08" />
       <extension name="coverage">
         <pattern>
@@ -413,19 +431,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JdbcTest05" />
-      <item itemvalue="Application.JdbcTest06" />
       <item itemvalue="Application.JdbcTest07" />
-      <item itemvalue="Application.JdbcTest08" />
-      <item itemvalue="Application.JdbcTest09" />
+      <item itemvalue="Application.JdbcTest10" />
+      <item itemvalue="Application.JdbcTest11" />
+      <item itemvalue="Application.JdbcTest12" />
+      <item itemvalue="Application.JdbcTest13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JdbcTest13" />
+        <item itemvalue="Application.JdbcTest12" />
+        <item itemvalue="Application.JdbcTest11" />
+        <item itemvalue="Application.JdbcTest10" />
         <item itemvalue="Application.JdbcTest07" />
-        <item itemvalue="Application.JdbcTest09" />
-        <item itemvalue="Application.JdbcTest08" />
-        <item itemvalue="Application.JdbcTest06" />
-        <item itemvalue="Application.JdbcTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -476,17 +494,18 @@
       <workItem from="1603417617570" duration="7043000" />
       <workItem from="1603774043210" duration="8830000" />
       <workItem from="1603849260804" duration="7266000" />
+      <workItem from="1603928476309" duration="6429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122281000" />
+    <option name="totallyTimeSpent" value="128710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.2386059" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" weight="0.2419571" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,7 +514,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5293296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4511173" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48743016" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,7 +536,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.23592493" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.2419571" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.22690763" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,8 +545,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7905028" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4511173" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48743016" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,41 +574,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/PipedStreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/collection/GenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/stream/InputStreamReaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="88" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/collection/Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -801,9 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="728">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,9 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="26" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,16 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#135536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
-          <caret line="81" column="3" lean-forward="true" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -860,7 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
+        <state relative-caret-position="2044">
           <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -870,8 +835,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="1512">
           <caret line="61" column="140" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="140" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -880,35 +855,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="168">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest08.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-616">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="112">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -917,8 +872,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="187">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_65/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1652">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hbnu/edu/jdbc/JdbcTest13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

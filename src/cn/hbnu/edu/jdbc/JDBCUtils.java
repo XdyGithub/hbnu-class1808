@@ -31,6 +31,7 @@ public class JDBCUtils {
         user = resourceBundle.getString("user");
         password = resourceBundle.getString("password");
 
+        // 注册驱动
         try {
             Class.forName(driver);
         } catch (ClassNotFoundException e) {
