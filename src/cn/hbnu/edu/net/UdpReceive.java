@@ -17,18 +17,20 @@ public class UdpReceive {
             // 1、建立udp socket服务
             datagramSocket = new DatagramSocket(8888);
 
-            // 2、定义数据报包，用于接收从发送端发送过来的数据
-            byte[] buf = new byte[1024];
-            DatagramPacket datagramPacket = new DatagramPacket(buf, buf.length);
+            while (true) {
+                // 2、定义数据报包，用于接收从发送端发送过来的数据
+                byte[] buf = new byte[1024];
+                DatagramPacket datagramPacket = new DatagramPacket(buf, buf.length);
 
-            // 3、接收数据
-            datagramSocket.receive(datagramPacket); // 阻塞式方法
+                // 3、接收数据
+                datagramSocket.receive(datagramPacket); // 阻塞式方法
 
-            // 4、取出数据
-            String ip = datagramPacket.getAddress().getHostAddress();
-            int port = datagramPacket.getPort();
-            String data = new String(datagramPacket.getData(), 0, datagramPacket.getLength());
-            System.out.println(ip + ":" + port + ">>>>" +data);
+                // 4、取出数据
+                String ip = datagramPacket.getAddress().getHostAddress();
+                int port = datagramPacket.getPort();
+                String data = new String(datagramPacket.getData(), 0, datagramPacket.getLength());
+                System.out.println(ip + ":" + port + ">>>>" + data);
+            }
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
